@@ -1,0 +1,30 @@
+
+@import url(<link href="https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Lora&display=swap" rel="stylesheet">)
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+
+body {
+	font-family: 'Lora', serif;
+	font-size: 20px;
+	margin: 0px; 
+	font-weight: lighter;
+}
+h1 {
+	font-weight: bold;
+	font-family: 'Lato', sans-serif;
+	margin: 60px auto;
+}
+h2, h3 {
+	font-family: 'Lato', sans-serif;	
+	font-weight: bold;
+	text-align: left;
+}
+
+a {
+	text-decoration: none;
+}
+
+
